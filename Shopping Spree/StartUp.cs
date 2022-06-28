@@ -6,7 +6,7 @@ namespace Shopping_Spree
 {
     public class StartUp
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Dictionary<string, Person> personKvp = new Dictionary<string, Person>();
 
